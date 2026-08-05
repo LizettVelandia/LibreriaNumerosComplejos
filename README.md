@@ -23,7 +23,7 @@ Las pruebas automáticas fueron realizadas utilizando `unittest` de Python.
 ## Archivos del proyecto
 
 - `operaciones.py`: Librería con las funciones de números complejos.
-- `test_operaciones.py`: Pruebas automáticas de la librería.
+- `test.py`: Pruebas automáticas de la librería.
 - `README.md`: Descripción del proyecto.
 - `.gitignore`: Archivos excluidos del control de versiones.
 
